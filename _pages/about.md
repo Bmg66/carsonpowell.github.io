@@ -15,7 +15,7 @@ Hi there! I'm Carson Powell, a tech enthusiast and lifelong learner with a knack
 
 I recently graduated from Classical Academy High School, where I honed my skills in programming, artificial intelligence, and digital design. I'm known for being a reliable and friendly resource, always ready to tackle new challenges and lend a helping hand!
 
-Outside of tech, I love working out and staying active. Whether it's hitting the gym or going for a run, fitness and staying healthy is a big part of my life. I have created multiple projects surounding AI, chrome extensions and much more! I have volunteered as a counselor at Emmanuel Faith Community Church, where I enjoy guiding and supporting Jr. High students. I'm excited about the future and eager to continue growing in the fields of technology and AI.
+Outside of tech, I love working out and staying active. Whether it's hitting the gym or playing disc golf with my friends, being fit and staying healthy is a big part of my life. I have created multiple projects surrounding AI, chrome extensions, and much more! I have volunteered as a counselor at Emmanuel Faith Community Church, where I enjoy guiding and supporting Jr. High students. I'm excited about the future and eager to continue growing in the fields of technology and AI.
 
 ## 🎓 Education
 
@@ -33,7 +33,7 @@ Outside of tech, I love working out and staying active. Whether it's hitting the
   - Generative AI
   - Finetuning LLMs
 - **Creative Skills**:
-  - Adobe Creative Cloud (Photoshop, Illustrator, Premeire Pro, ect)
+  - Adobe Creative Cloud (Photoshop, Illustrator, Premiere Pro, etc.)
   - Photography / Videography
 
 - **Soft Skills**:
@@ -76,7 +76,7 @@ Outside of tech, I love working out and staying active. Whether it's hitting the
 - **Role**: AI Researcher
 - **Duration**: 2022 - Current
 - **Responsibilities**:
-  - Conducting research on large language models
+  - Researching large language models
   - Creating finetuned large language models for various applications
   - Implementing AI solutions for various projects
 
