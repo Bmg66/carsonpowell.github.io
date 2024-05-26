@@ -26,17 +26,22 @@ Outside of tech, I love working out and staying active. Whether it's hitting the
 ## 🛠️ Skills
 
 - **Programming Languages**:
-  - Python
+  - Python, Java, CSS, Html
+  - VScode
 - **Artificial Intelligence**:
   - Large Language Models
   - Generative AI
-- **Design Tools**:
-  - Adobe Illustrator
-  - Adobe Photoshop
+  - Finetuning LLMs
+- **Creative Skills**:
+  - Adobe Creative Cloud (Photoshop, Illustrator, Premeire Pro, ect)
+  - Photography / Videography
+
 - **Soft Skills**:
   - Communication
   - Leadership
   - Troubleshooting
+  - Marketing
+  - Sales
   
 ## 🏆 Certifications
 
@@ -53,25 +58,26 @@ Outside of tech, I love working out and staying active. Whether it's hitting the
 
 ### Counselor at Emmanuel Faith Community Church
 - **Role**: Counselor
-- **Duration**: 2022 - Current
 - **Responsibilities**:
   - Counseling Jr. High students
-  - Providing guidance and support
+  - Providing guidance and support to the students
 
 ### Tech Help Specialist
 - **Role**: Tech Help Specialist
-- **Duration**: 2020 - Current
+- **Duration**: 2019 - Current
 - **Responsibilities**:
   - Troubleshooting and resolving computer issues
   - Assisting with software installation and updates
   - Providing technical support to students and staff
+  - Providing expert advice on AI and technology solutions
+  - Helping Classical Academy implement AI strategies and technologies (AI TASK FORCE)
 
-### AI Research Assistant
-- **Role**: AI Research Assistant
+### AI Researcher
+- **Role**: AI Researcher
 - **Duration**: 2022 - Current
 - **Responsibilities**:
-  - Assisting in the development of AI models
   - Conducting research on large language models
+  - Creating finetuned large language models for various applications
   - Implementing AI solutions for various projects
 
 ## 🌐 Online Profiles
