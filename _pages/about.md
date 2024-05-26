@@ -15,20 +15,29 @@ Hi there! I'm Carson Powell, a tech enthusiast and lifelong learner with a knack
 
 I recently graduated from Classical Academy High School, where I honed my skills in programming, artificial intelligence, and digital design. I'm known for being a reliable and friendly resource, always ready to tackle new challenges and lend a helping hand!
 
-Outside of tech, I love working out and staying active. Whether it's hitting the gym or going for a run, fitness and staying healthy is a big part of my life. I have created multiple projects surounding AI, chrome extensions and much more I also volunteer as a counselor at Emmanuel Faith Community Church, where I enjoy guiding and supporting Jr. High students. I'm excited about the future and eager to continue growing in the fields of technology and AI
+Outside of tech, I love working out and staying active. Whether it's hitting the gym or going for a run, fitness and staying healthy is a big part of my life. I have created multiple projects surounding AI, chrome extensions and much more! I have volunteered as a counselor at Emmanuel Faith Community Church, where I enjoy guiding and supporting Jr. High students. I'm excited about the future and eager to continue growing in the fields of technology and AI.
 
 ## 🎓 Education
 
 ### Classical Academy High School
 - **Years Attended**: 2020 - 2024
 - **Graduated**: Yes
-- **Skills Acquired**:
-  - Adobe Photoshop
-  - Adobe Illustrator
-  - Python Programming
-  - Artificial Intelligence
-  - Large Language Models
+  
+## 🛠️ Skills
 
+- **Programming Languages**:
+  - Python
+- **Artificial Intelligence**:
+  - Large Language Models
+  - Generative AI
+- **Design Tools**:
+  - Adobe Illustrator
+  - Adobe Photoshop
+- **Soft Skills**:
+  - Communication
+  - Leadership
+  - Troubleshooting
+  
 ## 🏆 Certifications
 
 - **AI, Business & the Future of Work** (Lund University, Mar 2024) 
@@ -51,7 +60,7 @@ Outside of tech, I love working out and staying active. Whether it's hitting the
 
 ### Tech Help Specialist
 - **Role**: Tech Help Specialist
-- **Duration**: 2023 - Current
+- **Duration**: 2020 - Current
 - **Responsibilities**:
   - Troubleshooting and resolving computer issues
   - Assisting with software installation and updates
@@ -59,26 +68,11 @@ Outside of tech, I love working out and staying active. Whether it's hitting the
 
 ### AI Research Assistant
 - **Role**: AI Research Assistant
-- **Duration**: 2023 - Current
+- **Duration**: 2022 - Current
 - **Responsibilities**:
   - Assisting in the development of AI models
   - Conducting research on large language models
   - Implementing AI solutions for various projects
-
-## 🛠️ Skills
-
-- **Programming Languages**:
-  - Python
-- **Artificial Intelligence**:
-  - Large Language Models
-  - Generative AI
-- **Design Tools**:
-  - Adobe Illustrator
-  - Adobe Photoshop
-- **Soft Skills**:
-  - Communication
-  - Leadership
-  - Troubleshooting
 
 ## 🌐 Online Profiles
 
