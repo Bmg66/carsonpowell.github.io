@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Carson Powell"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Carson Powell"
+description              : &description "Young, vibrant, and an excellent communicator with a passion for technology. Highly computer-literate and marketing-friendly, I bring a dedicated approach to every task. Known for troubleshooting computers and ready to tackle dynamic challenges with enthusiasm."
 url                      : https://bmg66.github.io/carsonpowell.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Bmg66/carsonpowell.github.io"
@@ -22,33 +22,33 @@ repository               : "Bmg66/carsonpowell.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Carson Powell"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Young, vibrant, and an excellent communicator with a passion for technology. Highly computer-literate and marketing-friendly, I bring a dedicated approach to every task. Known for troubleshooting computers and ready to tackle dynamic challenges with enthusiasm."
+  location         : "Escondido, California, United States"
+  employer         : "Classical Academy High School"
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "bmg66"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "carson-powell"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -72,7 +72,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -111,13 +110,11 @@ atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
-
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-
 
 # Social Sharing
 twitter:
@@ -134,13 +131,11 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-
 # Analytics
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
-
 
 # Reading Files
 include:
@@ -177,14 +172,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -196,7 +189,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
 
 # Collections
 collections:
@@ -212,7 +204,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -270,19 +261,16 @@ defaults:
       author_profile: true
       share: true
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
 
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins
 plugins:
@@ -298,7 +286,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
 
 # Archives
 #  Type
@@ -327,7 +314,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
 
 # HTML Compression
 # - http://jch.penibelst.de/
