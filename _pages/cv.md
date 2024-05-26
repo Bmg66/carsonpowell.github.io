@@ -9,56 +9,66 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 🎓 Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Classical Academy High School**
+  * Graduated: 2024
+  * Skills Acquired:
+    * Adobe Photoshop
+    * Adobe Illustrator
+    * Python Programming
+    * Artificial Intelligence
+    * Large Language Models
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## 💼 Work Experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Counselor at Emmanuel Faith Community Church**
+  * Duration: 2022 - Current
+  * Responsibilities:
+    * Counseling Jr. High students
+    * Providing guidance and support
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Tech Help Specialist**
+  * Duration: 2023 - Current
+  * Responsibilities:
+    * Troubleshooting and resolving computer issues
+    * Assisting with software installation and updates
+    * Providing technical support to students and staff
+
+* **AI Research Assistant**
+  * Duration: 2023 - Current
+  * Responsibilities:
+    * Conducting research on large language models
+    * Assisting in AI-related projects
+
+## 🛠️ Skills
+
+* **Programming Languages**:
+  * Python
+* **Artificial Intelligence**:
+  * Large Language Models
+  * Generative AI
+* **Design Tools**:
+  * Adobe Illustrator
+  * Adobe Photoshop
+* **Soft Skills**:
+  * Communication
+  * Leadership
+  * Troubleshooting
+
+## 🏆 Certifications
+
+* **AI, Business & the Future of Work** (Lund University, Mar 2024) 
+  * Credential ID: EL2R9BYY3NSD
+* **Introduction to Generative AI** (Google Cloud Training Online, Mar 2024)
+  * Credential ID: GXG46SW63GF5
+* **Introduction to Image Generation** (Google Cloud Training Online, Mar 2024)
+  * Credential ID: YQVH7XWH64S3
+* **Introduction to Large Language Models** (Google Cloud Training Online, Mar 2024)
+  * Credential ID: UGKTVMJUQ764
+
+## 🌟 Service and Leadership
+
+* Counselor at Emmanuel Faith Community Church
+* Tech Help Specialist
+* AI Research Assistant
