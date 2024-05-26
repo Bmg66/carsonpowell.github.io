@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Welcome to Carson Powell's Website
+# 👋 Welcome!
 
 ## 📝 About Me
 
-Hi there! I'm Carson Powell, a tech enthusiast and lifelong learner with a knack for solving problems and a passion for helping others. Whether I'm troubleshooting computer issues, diving into the latest advancements in AI, or designing creative projects with Adobe tools, I bring enthusiasm and dedication to everything I do.
+Hi there! I'm Carson Powell, a tech enthusiast and lifelong learner with a knack for solving problems and a passion for helping others. Whether I'm troubleshooting computer issues, diving into the latest advancements in AI, or designing creative projects with Adobe tools, I bring enthusiasm and dedication to everything I do!
 
-I recently graduated from Classical Academy High School, where I honed my skills in programming, artificial intelligence, and digital design. I'm known for being a reliable and friendly resource, always ready to tackle new challenges and lend a helping hand.
+I recently graduated from Classical Academy High School, where I honed my skills in programming, artificial intelligence, and digital design. I'm known for being a reliable and friendly resource, always ready to tackle new challenges and lend a helping hand!
 
-Outside of tech, I love working out and staying active. Whether it's hitting the gym or going for a run, fitness is a big part of my life. I also volunteer as a counselor at Emmanuel Faith Community Church, where I enjoy guiding and supporting Jr. High students. I'm excited about the future and eager to continue growing in the fields of technology and AI.
+Outside of tech, I love working out and staying active. Whether it's hitting the gym or going for a run, fitness and staying healthy is a big part of my life. I have created multiple projects surounding AI, chrome extensions and much more I also volunteer as a counselor at Emmanuel Faith Community Church, where I enjoy guiding and supporting Jr. High students. I'm excited about the future and eager to continue growing in the fields of technology and AI
 
 ## 🎓 Education
 
