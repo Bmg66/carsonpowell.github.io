@@ -54,9 +54,9 @@ Outside of tech, I love working out and staying active. Whether it's hitting the
 - **Introduction to Large Language Models** (Google Cloud Training Online, Mar 2024)
   - Credential ID: UGKTVMJUQ764
 
-## IN PROGRESS Certifications
-- ## CS50 Credential 
-- ## CS50 Python Credential
+## CURRENTLY IN PROGRESS Certifications
+- ** CS50 Certificate
+- ** CS50 Python Certificate
 
 ## 💼 Work Experience
 
