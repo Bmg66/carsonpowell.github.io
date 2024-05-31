@@ -54,6 +54,10 @@ Outside of tech, I love working out and staying active. Whether it's hitting the
 - **Introduction to Large Language Models** (Google Cloud Training Online, Mar 2024)
   - Credential ID: UGKTVMJUQ764
 
+## IN PROGRESS Certifications
+- ## CS50 Credential 
+- ## CS50 Python Credential
+
 ## 💼 Work Experience
 
 ### Counselor at Emmanuel Faith Community Church
