@@ -59,7 +59,7 @@ Outside of tech, I love working out and staying active. Whether it's hitting the
 ### Counselor at Emmanuel Faith Community Church
 - **Role**: Counselor
 - **Responsibilities**:
-  - Counseling Jr. High students
+  - Counseling Jr. High students (Hume Lake Christian Camps)
   - Providing guidance and support to the students
 
 ### Tech Help Specialist
